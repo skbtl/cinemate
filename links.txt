@@ -1,0 +1,4 @@
+eb92c393c771085af014021294d6ae52
+
+https://api.themoviedb.org/3/movie/now_playing?api_key=eb92c393c771085af014021294d6ae52
+
